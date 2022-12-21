@@ -1,0 +1,6 @@
+#.gitignore 파일입니다.
+# 여기에 등록되는 폴더 또는 파일은 git으로 관리되지 않습니다.
+
+docs/**/*.txt
+# docs/*.txt
+# text.txt
